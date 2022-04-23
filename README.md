@@ -6,96 +6,88 @@
 Below are the results of the **balanced accuracy scores** and the **precision and recall scores** of all six machine learning models. 
 
 - `RandomOverSampler`
-  - **High Risk**
-  ``` 
-    - Accuracy
+  - Accuracy Score:
+    - **High Risk**
+    ```
     - Precision
     - Recall
-  ```  
-  - **Low Risk**
-  ```
-    - Accuracy
+    ```  
+    - **Low Risk**
+    ```
     - Precision
     - Recall
-  ```
+    ```
 ------
 
 - `SMOTE`
-  - **High Risk**
-  ``` 
-    - Accuracy
+  - Accuracy Score:
+    - **High Risk**
+    ```
     - Precision
     - Recall
-  ```  
-  - **Low Risk**
-  ```
-    - Accuracy
+    ```  
+    - **Low Risk**
+    ```
     - Precision
     - Recall
-  ```
-
+    ```
 ------
 
 - `ClusterCentroids`
-  - **High Risk**
-  ``` 
-    - Accuracy
+  - Accuracy Score:
+    - **High Risk**
+    ```
     - Precision
     - Recall
-  ```  
-  - **Low Risk**
-  ```
-    - Accuracy
+    ```  
+    - **Low Risk**
+    ```
     - Precision
     - Recall
-  ```
+    ```
 
 ------
 
 - `SMOTEENN`
-  - **High Risk**
-  ``` 
-    - Accuracy
+  - Accuracy Score:
+    - **High Risk**
+    ```
     - Precision
     - Recall
-  ```  
-  - **Low Risk**
-  ```
-    - Accuracy
+    ```  
+    - **Low Risk**
+    ```
     - Precision
     - Recall
-  ```
-
+    ```
 ------ 
  
 - `Balanced Random Forest Classifer`
-  - **High Risk**
-  ``` 
-    - Accuracy
+  - Accuracy Score:
+    - **High Risk**
+    ```
     - Precision
     - Recall
-  ```  
-  - **Low Risk**
-  ```
-    - Accuracy
+    ```  
+    - **Low Risk**
+    ```
     - Precision
     - Recall
-  ```
+    ```
 ------
 
 - `Easy Ensemble Classifer`
-  - **High Risk**
-  ``` 
-    - Accuracy
+  - Accuracy Score:
+    - **High Risk**
+    ```
     - Precision
     - Recall
-  ```  
-  - **Low Risk**
-  ```
-    - Accuracy
+    ```  
+    - **Low Risk**
+    ```
     - Precision
     - Recall
-  ```
+    ```
 -------
 
 ## Summary
