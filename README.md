@@ -6,21 +6,33 @@
 Below are the results of the **balanced accuracy scores** and the **precision and recall scores** of all six machine learning models. 
 
 - `RandomOverSampler`
-  - Accuracy:
+  - Accuracy Score: 63.7%
+  <br />
+  
+    <img width="355" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Randomoversamp_accuracy.png">  
+  <br />
+  
     - **High Risk**
     ```
-    - Precision
-    - Recall
+    - Precision: 1.0%
+    - Recall: 62.0%
     ```  
     - **Low Risk**
     ```
-    - Precision
-    - Recall
+    - Precision: 100%
+    - Recall: 65% 
     ```
+     <img width="655" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Randomoversamp_report.png">  
+   <br />
 ------
 
 - `SMOTE`
-  - Accuracy:
+  - Accuracy: 63.0%
+   <br />
+  
+    <img width="355" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/SMOTE_accuracy.png">  
+   <br />
+  
     - **High Risk**
     ```
     - Precision
@@ -31,6 +43,10 @@ Below are the results of the **balanced accuracy scores** and the **precision an
     - Precision
     - Recall
     ```
+     <img width="655" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/SMOTE_samp_report.png">  
+   <br />
+    
+    
 ------
 
 - `ClusterCentroids`
