@@ -4,4 +4,55 @@
 
 ## Results
 Below are the results of the **balanced accuracy scores** and the **precision and recall scores** of all six machine learning models.  
+-RandomOverSampler
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 score
+
+------
+
+-SMOTE
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 score
+
+------
+
+-Cluster Centroids
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 score
+
+------
+
+-SMOTEENN
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 score
+  
+------ 
+ 
+-Balanced Random Forest Classifer
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 score
+  - 
+------
+
+-Easy Ensemble Classifer
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 score
+
+-------
+
+## Summary
+
+
 
