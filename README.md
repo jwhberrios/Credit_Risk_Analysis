@@ -9,7 +9,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
   - Accuracy Score: 63.7%
   <br />
     <p align="center">
-      <img width="355" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Randomoversamp_accuracy.png">  
+      <img width="425" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Randomoversamp_accuracy.png">  
     </p>
   <br />
   
