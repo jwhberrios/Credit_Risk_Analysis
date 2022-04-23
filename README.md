@@ -25,8 +25,8 @@ Below are the results of the **balanced accuracy scores** and the **precision an
     ```
     - **Avg/Total**
     ```
-    - Precision: %
-    - Recall: % 
+    - Precision: 99.0%
+    - Recall: 65.0% 
     ```
     <p align="center">
       <img width="600" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Randomoversamp_report.png">  
@@ -54,8 +54,8 @@ Below are the results of the **balanced accuracy scores** and the **precision an
     ```
     - **Avg/Total**
     ```
-    - Precision: %
-    - Recall: % 
+    - Precision: 99.0%
+    - Recall: 64.0% 
     ```
     
     <p align="center">
@@ -86,8 +86,8 @@ Below are the results of the **balanced accuracy scores** and the **precision an
     ```
     - **Avg/Total**
     ```
-    - Precision: %
-    - Recall: % 
+    - Precision: 99.0%
+    - Recall: 44.0% 
     ```
     <p align="center">
      <img width="600" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_samp_report.png">
@@ -116,8 +116,8 @@ Below are the results of the **balanced accuracy scores** and the **precision an
     ```
     - **Avg/Total**
     ```
-    - Precision: %
-    - Recall: % 
+    - Precision: 99.0%
+    - Recall: 54.0% 
     ```
     <p align="center">
      <img width="600" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_samp_report.png">
