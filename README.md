@@ -6,7 +6,7 @@
 Below are the results of the **balanced accuracy scores** and the **precision and recall scores** of all six machine learning models. 
 
 - `RandomOverSampler`
-  - Accuracy Score:
+  - Accuracy:
     - **High Risk**
     ```
     - Precision
@@ -20,7 +20,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 ------
 
 - `SMOTE`
-  - Accuracy Score:
+  - Accuracy:
     - **High Risk**
     ```
     - Precision
@@ -34,7 +34,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 ------
 
 - `ClusterCentroids`
-  - Accuracy Score:
+  - Accuracy:
     - **High Risk**
     ```
     - Precision
@@ -49,7 +49,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 ------
 
 - `SMOTEENN`
-  - Accuracy Score:
+  - Accuracy:
     - **High Risk**
     ```
     - Precision
@@ -63,7 +63,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 ------ 
  
 - `Balanced Random Forest Classifer`
-  - Accuracy Score:
+  - Accuracy:
     - **High Risk**
     ```
     - Precision
@@ -77,7 +77,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 ------
 
 - `Easy Ensemble Classifer`
-  - Accuracy Score:
+  - Accuracy:
     - **High Risk**
     ```
     - Precision
