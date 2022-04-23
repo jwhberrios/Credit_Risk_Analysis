@@ -185,6 +185,12 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 -------
 
 ## Summary
-Out of the 6 algorithms performed to assess for its accuracy in predicting credit card credit risk based on the metrics presented under the results section, the Easy Ensemble Classifer algorithm yielded the highest percentage in average precision (99%.0) and recall (94%). In addiiton, its F1-score (97%) was the highest out of all the models. These values support the accuracy of the model and its strong accurate potential to identify high risk applicants who are applying for a loan.
+The `RandomOverSampler`, `SMOTE`, `ClusterCentroids`, and `SMOTEENN` yielded moderately strong accuracy and F-1 scores, but not at a high enough score where they are recommended to be used to accurately predict for credit card credit risk.
+
+The `Balanced Random Forest Classifer` yielded a much higher accuracy score (78.9%) than the previous 4 models discussed along with a very strong F-1 score (93%). Out of the 5 models discussed so far, this is the strongest prediction model.
+
+However, the `Easy Ensemble Classifer` model yielded the highest accuracy score (93.2%), percentages in average precision (99%.0) and recall (94%). In addiiton, its F1-score (97.0%) was the highest out of all the models. These values support the accuracy of the model and its strong accurate potential to identify high risk applicants who are applying for a loan. Out of the 6 models, this is the recommended model to use to accurately predict credit card credit risk applicants with confidence.
+
+
 
 
