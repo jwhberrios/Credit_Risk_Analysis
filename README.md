@@ -174,8 +174,8 @@ Below are the results of the **balanced accuracy scores** and the **precision an
     ```
     - **Avg/Total**
     ```
-    - Precision:  %
-    - Recall:  % 
+    - Precision: 99.0 %
+    - Recall: 94.0 % 
     ```
      <p align="center">
      <img width="600" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Easy_samp_report.png">
