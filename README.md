@@ -20,8 +20,13 @@ Below are the results of the **balanced accuracy scores** and the **precision an
     ```  
     - **Low Risk**
     ```
-    - Precision: 99.0%
+    - Precision: 100.0%
     - Recall: 65.0% 
+    ```
+    - **Avg/Total**
+    ```
+    - Precision: %
+    - Recall: % 
     ```
     <p align="center">
       <img width="600" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Randomoversamp_report.png">  
@@ -44,9 +49,15 @@ Below are the results of the **balanced accuracy scores** and the **precision an
     ```  
     - **Low Risk**
     ```
-    - Precision: 99.0%
+    - Precision: 100.0%
     - Recall: 64.0%
     ```
+    - **Avg/Total**
+    ```
+    - Precision: %
+    - Recall: % 
+    ```
+    
     <p align="center">
      <img width="600" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/SMOTE_samp_report.png">
     </p>
@@ -70,8 +81,13 @@ Below are the results of the **balanced accuracy scores** and the **precision an
     ```  
     - **Low Risk**
     ```
-    - Precision: 99.0%
+    - Precision: 100.0%
     - Recall: 43.0%
+    ```
+    - **Avg/Total**
+    ```
+    - Precision: %
+    - Recall: % 
     ```
     <p align="center">
      <img width="600" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_samp_report.png">
@@ -98,6 +114,11 @@ Below are the results of the **balanced accuracy scores** and the **precision an
     - Precision: 99.0%
     - Recall: 54.0%
     ```
+    - **Avg/Total**
+    ```
+    - Precision: %
+    - Recall: % 
+    ```
     <p align="center">
      <img width="600" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_samp_report.png">
     </p>
@@ -114,13 +135,18 @@ Below are the results of the **balanced accuracy scores** and the **precision an
    
     - **High Risk**
     ```
-    - Precision
-    - Recall
+    - Precision: 3.0%
+    - Recall: 70.0%
     ```  
     - **Low Risk**
     ```
-    - Precision
-    - Recall
+    - Precision: 100.0%
+    - Recall: 87.0%
+    ```
+    - **Avg/Total**
+    ```
+    - Precision: 99.0 %
+    - Recall: 87.0 % 
     ```
     <p align="center">
      <img width="600" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Balanced_samp_report.png">
@@ -138,13 +164,18 @@ Below are the results of the **balanced accuracy scores** and the **precision an
   
     - **High Risk**
     ```
-    - Precision
-    - Recall
+    - Precision: 9.0%
+    - Recall: 92.0%
     ```  
     - **Low Risk**
     ```
-    - Precision
-    - Recall
+    - Precision: 99.0%
+    - Recall: 94.0% 
+    ```
+    - **Avg/Total**
+    ```
+    - Precision:  %
+    - Recall:  % 
     ```
      <p align="center">
      <img width="600" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Easy_samp_report.png">
