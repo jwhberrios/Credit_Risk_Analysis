@@ -53,7 +53,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 ------
 
 - `SMOTEENN`
- - **High Risk**
+  - **High Risk**
   ``` 
     - Accuracy
     - Precision
@@ -84,7 +84,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 ------
 
 - `Easy Ensemble Classifer`
- - **High Risk**
+  - **High Risk**
   ``` 
     - Accuracy
     - Precision
