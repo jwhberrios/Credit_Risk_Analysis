@@ -3,8 +3,9 @@
 `Imbalanced-learn` and `scikit-learn` libraries were used to build and evaluate models using resampling techniques. The credit card credit dataset used in this analysis was provided by a peer-to-peer services lending company called LendingClub. Various data sampling techniques were performed using the following algorithms with its respective sampling technique indicated: `RandomOverSampler` (oversampling), `SMOTE` (oversampling), `ClusterCentroids` (undersampling), and `SMOTEENN` (combination of over and undersampling). Then two new machine learning models intended to predict credit risk with reduced bias called, `BalancedRandomForestClassifier` and `EasyEnsembleClassifier`, were compared.
 
 ## Results
-Below are the results of the **balanced accuracy scores** and the **precision and recall scores** of all six machine learning models.  
--RandomOverSampler
+Below are the results of the **balanced accuracy scores** and the **precision and recall scores** of all six machine learning models. 
+
+- `RandomOverSampler`
   - Accuracy
   - Precision
   - Recall
@@ -12,7 +13,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 
 ------
 
--SMOTE
+- `SMOTE`
   - Accuracy
   - Precision
   - Recall
@@ -20,7 +21,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 
 ------
 
--Cluster Centroids
+- `Cluster Centroids`
   - Accuracy
   - Precision
   - Recall
@@ -28,7 +29,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 
 ------
 
--SMOTEENN
+- `SMOTEENN`
   - Accuracy
   - Precision
   - Recall
@@ -36,7 +37,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
   
 ------ 
  
--Balanced Random Forest Classifer
+- `Balanced Random Forest Classifer`
   - Accuracy
   - Precision
   - Recall
@@ -44,7 +45,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
   - 
 ------
 
--Easy Ensemble Classifer
+- `Easy Ensemble Classifer`
   - Accuracy
   - Precision
   - Recall
