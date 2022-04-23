@@ -36,7 +36,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 
 ------
 
-- `Cluster Centroids`
+- `ClusterCentroids`
   - **High Risk**
   ``` 
     - Accuracy
