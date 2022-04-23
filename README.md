@@ -19,10 +19,10 @@ Below are the results of the **balanced accuracy scores** and the **precision an
     ```  
     - **Low Risk**
     ```
-    - Precision: 100%
-    - Recall: 65% 
+    - Precision: 99.0%
+    - Recall: 65.0% 
     ```
-     <img width="655" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Randomoversamp_report.png">  
+     <img width="600" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Randomoversamp_report.png">  
    <br />
 ------
 
@@ -35,22 +35,27 @@ Below are the results of the **balanced accuracy scores** and the **precision an
   
     - **High Risk**
     ```
-    - Precision
-    - Recall
+    - Precision: 1.0%
+    - Recall: 62.0%
     ```  
     - **Low Risk**
     ```
-    - Precision
-    - Recall
+    - Precision: 99.0%
+    - Recall: 64.0%
     ```
-     <img width="655" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/SMOTE_samp_report.png">  
+     <img width="600" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/SMOTE_samp_report.png">  
    <br />
     
     
 ------
 
 - `ClusterCentroids`
-  - Accuracy:
+  - Accuracy: 51.6%
+    <br />
+  
+    <img width="355" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_accuracy.png">  
+   <br />
+   
     - **High Risk**
     ```
     - Precision
