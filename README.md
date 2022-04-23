@@ -185,6 +185,6 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 -------
 
 ## Summary
-
+Out of the 6 algorithms performed to assess for its accuracy in predicting credit card credit risk based on the metrics presented under the results section, the Easy Ensemble Classifer algorithm yielded the highest percentage in average precision (99%.0) and recall (94%). In addiiton, its F1-score (97%) was the highest out of all the models. These values support the accuracy of the model and its strong accurate potential to identify high risk applicants who are applying for a loan.
 
 
