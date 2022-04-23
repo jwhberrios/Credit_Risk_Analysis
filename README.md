@@ -129,12 +129,13 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 ------
 
 - `Easy Ensemble Classifer`
-  - Accuracy: 93.1%
+  - Accuracy: 93.2%
     <br />
     <p align="center">
       <img width="355" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Easy_accuracy.png">  
     </p>
   <br />
+  
     - **High Risk**
     ```
     - Precision
