@@ -19,7 +19,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 ------
 
 - `SMOTE`
-   - High Risk 
+  - High Risk 
     - Accuracy
     - Precision
     - Recall
@@ -34,7 +34,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 ------
 
 - `Cluster Centroids`
-   - High Risk 
+  - High Risk 
     - Accuracy
     - Precision
     - Recall
@@ -47,7 +47,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
 ------
 
 - `SMOTEENN`
-   - High Risk 
+  - High Risk 
     - Accuracy
     - Precision
     - Recall
