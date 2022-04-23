@@ -9,7 +9,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
   - Accuracy
   - Precision
   - Recall
-  - F1 score
+  
 
 ------
 
@@ -17,7 +17,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
   - Accuracy
   - Precision
   - Recall
-  - F1 score
+
 
 ------
 
@@ -25,7 +25,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
   - Accuracy
   - Precision
   - Recall
-  - F1 score
+
 
 ------
 
@@ -33,7 +33,7 @@ Below are the results of the **balanced accuracy scores** and the **precision an
   - Accuracy
   - Precision
   - Recall
-  - F1 score
+ 
   
 ------ 
  
@@ -41,15 +41,15 @@ Below are the results of the **balanced accuracy scores** and the **precision an
   - Accuracy
   - Precision
   - Recall
-  - F1 score
-  - 
+  
+  
 ------
 
 - `Easy Ensemble Classifer`
   - Accuracy
   - Precision
   - Recall
-  - F1 score
+  
 
 -------
 
