@@ -101,15 +101,15 @@ Below are the results of the **balanced accuracy scores** and the **precision an
     <p align="center">
      <img width="600" alt="image" src="https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_samp_report.png">
     </p>
-   <br/>
+   <br />
 ------ 
  
 - `Balanced Random Forest Classifer`
   - Accuracy:
    <br />
-    <p align="center">
-      <img width="355" alt="image" src=""https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Balanced_accuracy.png>
-    </p>
+   <p align="center">
+     <img width="355" alt="image" src=""https://github.com/jwhberrios/Credit_Risk_Analysis/blob/main/Resources/Balanced_accuracy.png>
+   </p>
    <br />
    
     - **High Risk**
